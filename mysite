@@ -1,0 +1,88 @@
+<style>
+body{
+background-color:;
+margin: 0 auto;
+color:black;
+}
+
+.box1 {
+ 
+	font-family: 'Cormorant Garamond', serif;
+    background-color:#E04C5B;
+	text-decoration:none;
+	height:30;
+	color:#FF6B6B;
+}
+
+.box2 {
+	border: 1px solid white;
+	font-family: 'Playfair Display', serif;
+    height:100%;
+    background-image: url('5517f0d1a124687bbd2eed14436f0aa6.jpg');
+	background-size:cover;
+	font-size: 40px;
+	color:white;
+	text-align: center;
+	background-attachment: fixed;
+}
+
+
+.box3 {
+   
+	
+    background-color:#EB589E;
+    color:#41EAD4;
+	text-align: center;
+	font-family: 'Architects Daughter', cursive;
+}
+
+.box1 a{
+text-decoration:none;
+color:black;
+position:relative;
+padding:5;
+top:3;
+left:20;
+
+}
+
+.box1 a:hover{
+  opacity:0.5;
+        background-color:#E71D36;
+		border-color:#E71D36;
+		color:#FF6B6B;
+
+}
+.box2 a{
+
+color:#41EAD4;
+}
+
+
+
+a:link{
+text-decoration:none;
+color:#FF6B6B;
+
+}
+
+</style>
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700" rel="stylesheet">
+ <link rel="stylesheet" href="animate.css">
+<body>
+<div class="box2">
+<nav><center>
+			<br><br><br><a href="Home.html"target="_blank">Home</a><br>
+			<br><a href="About1.html"target="_blank">About </a> <br>
+			<br><a href="gallery.html"target="_blank">Gallery</a> <br>
+			<br><a href="Contact.html"target="_blank">Contact Info</a><br>
+	</nav></center>
+</div>
+
+	
+<div class="box3">
+<footer>Copyright 2017 by All Rights Reserved.
+Powered by Gutierrez Joseph D.C
+</footer>
+</div>
+</body>
